@@ -19,6 +19,6 @@ Lists all "dead links" -- filenames that were linked to but weren't there.
 
 ### \#3
 
-List the three filenames with the highest number of incoming links and how many incoming links they have.
+Lists the three filenames with the highest number of incoming links and how many incoming links they have.
 
 """
